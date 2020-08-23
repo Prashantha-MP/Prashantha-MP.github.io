@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="790ae9b6-4744-47b8-be8b-9a25f55bc953" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/mpp.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -81,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598217441901</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Contact Changes">
+      <created>1598218535252</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1598218535253</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,10 +100,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Contact Changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="429" y="8" key="CommitChangelistDialog2" timestamp="1598217440899">
+    <state x="429" y="8" key="CommitChangelistDialog2" timestamp="1598218534277">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="429" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598217440899" />
+    <state x="429" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1598218534277" />
     <state x="548" y="158" key="FileChooserDialogImpl" timestamp="1598214640939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -104,9 +112,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598214649778" />
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1598217451928">
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1598218545293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598217451928" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598218545293" />
   </component>
 </project>
